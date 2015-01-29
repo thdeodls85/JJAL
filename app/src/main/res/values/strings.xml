@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">JJAL</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main -->
+    <string name="main_finish_toast">"'뒤로' 버튼을 한번 더 누르시면 종료 됩니다."</string>
+
+    <!-- login -->
+    <string name="login_title">시작하기</string>
+
+    <!-- privacy -->
+    <string name="privacy_title">개인정보 취급방침</string>
+    <string name="privacy_privacy">개인정보 취급방침합니다.</string>
+
+    <!-- access_term -->
+    <string name="access_term_title">이용 약관</string>
+    <string name="access_term_term">이용약관입니당~</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+</resources>

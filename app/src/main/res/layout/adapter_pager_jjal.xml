@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <!-- 일단 이미지로 만들고 나중에 pulltorefreshview로 바꿔서 안에다가 이미지를 넣도록 하자 -->
+    <ImageView
+        android:id="@+id/adapter_pager_jjal_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"/>
+</LinearLayout>
