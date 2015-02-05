@@ -28,8 +28,6 @@ public class LoadingActivity extends ParentActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-
-
         setContentView(R.layout.activity_loading);
         initView();
     }
