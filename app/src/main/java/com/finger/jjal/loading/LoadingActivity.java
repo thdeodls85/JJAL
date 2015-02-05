@@ -29,6 +29,9 @@ public class LoadingActivity extends ParentActivity
     {
         super.onCreate(savedInstanceState);
 
+
+
+        
         setContentView(R.layout.activity_loading);
         initView();
     }
